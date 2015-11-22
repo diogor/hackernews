@@ -1,3 +1,3 @@
 # Hacker news reader for iOS
 
-## Issue tracker
+## [Issue tracker](https://github.com/diogor/hackernews/issues)
